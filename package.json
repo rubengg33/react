@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://rubengg33.github.io/nodejs/first-react-app",
+  "homepage": "https://rubengg33.github.io/first-react-app",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
